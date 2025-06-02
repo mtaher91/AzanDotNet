@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>AzanDotNet</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Mohamed Alkadi</Authors>
+    <Description>AzanDotNet is a comprehensive and highly accurate Islamic prayer times calculation library for .NET applications. Built with precision astronomical algorithms, it provides reliable prayer time calculations for Muslims worldwide. Features include support for multiple calculation methods from major Islamic organizations, automatic timezone and daylight saving time handling, Qibla direction calculation, Sunnah times computation, and optimized algorithms for high-latitude regions. Perfect for Islamic apps, mosque management systems, and any application requiring accurate prayer time calculations. Supports global locations with extensive customization options for different madhabs and calculation preferences.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageTags>adhan;islam;muslim;prayer;islamic;prayer-times;salah;salat;salaat;namaz;azan;qibla;mosque;fajr;dhuhr;asr;maghrib;isha;sunnah;astronomical;calculation;timezone;mecca;kaaba;hijri;lunar;solar;coordinates;latitude;longitude;madhab;hanafi;shafi;maliki;hanbali</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <RootNamespace>AzanDotNet</RootNamespace>
+    <AssemblyName>AzanDotNet</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,11 @@
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\bin\Release\net6.0\AzanDotNet.deps.json
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\bin\Release\net6.0\AzanDotNet.dll
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\bin\Release\net6.0\AzanDotNet.pdb
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\obj\Release\net6.0\AzanDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\obj\Release\net6.0\AzanDotNet.AssemblyInfoInputs.cache
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\obj\Release\net6.0\AzanDotNet.AssemblyInfo.cs
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\obj\Release\net6.0\AzanDotNet.csproj.CoreCompileInputs.cache
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\obj\Release\net6.0\AzanDotNet.dll
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\obj\Release\net6.0\refint\AzanDotNet.dll
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\obj\Release\net6.0\AzanDotNet.pdb
+D:\AdhanCsharp(byAlkadi)\src\AzanDotNet\obj\Release\net6.0\ref\AzanDotNet.dll
